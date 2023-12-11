@@ -8,4 +8,4 @@ Experienced and highly skilled Web Developer with a deep understanding of JavaSc
 
 * 🌍  I'm based in Cralwey, UK
 * ✉️  You can contact me at [rubenkretek@outlook.com](mailto:rubenkretek@outlook.com)
-* 🚀  I'm currently working on [Web app to manage cars in Next.js](https://github.com/rubenkretek/my-cars))
+* 🚀  I'm currently working on [Web app to manage cars in Next.js](https://github.com/rubenkretek/my-cars)
